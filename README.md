@@ -9,7 +9,7 @@ You have a bunch of fresh ideas and you aspire to make them possible with the he
 
 - for Native Android: https://github.com/Huawei-Nordic/Junction2021_native
 
-- for Flutter: https://github.com/Huawei-Nordic/junction2021_flutterx
+- for Flutter: https://github.com/Huawei-Nordic/junction2021_flutter
 
 - for React Native: https://github.com/Huawei-Nordic/junction2021_reactnative
 
